@@ -1,2 +1,1 @@
-# pacman
-Test Pacman in python ai generated
+why is there no ai content
